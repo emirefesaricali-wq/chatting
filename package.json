@@ -1,9 +1,9 @@
 {
   "name": "gercek-zamanli-sohbet",
+  "homepage": "https://<KULLANICI_ADINIZ>.github.io/gercek-zamanli-sohbet/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://<KULLANICI_ADINIZ>.github.io/<DEPO_ADINIZ>/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
