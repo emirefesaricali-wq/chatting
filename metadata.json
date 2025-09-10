@@ -1,0 +1,5 @@
+{
+  "name": "Gerçek Zamanlı Sohbet",
+  "description": "Kullanıcıların farklı cihazlar ve tarayıcılar arasında, Pusher hizmeti aracılığıyla gerçek zamanlı olarak sohbet etmelerini sağlayan bir web uygulaması.",
+  "requestFramePermissions": []
+}
